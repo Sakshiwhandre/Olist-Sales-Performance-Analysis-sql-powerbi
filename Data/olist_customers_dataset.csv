@@ -1,0 +1,6 @@
+CREATE DATABASE olist_db;
+USE olist_db;
+SELECT * FROM  olist_order_items_dataset;
+SELECT * FROM  olist_products_dataset;
+SELECT * FROM  olist_orders_dataset;
+SELECT * FROM  olist_customers_dataset;
